@@ -1,0 +1,4 @@
+Nama : Meida Safira
+Umur : 22 Tahun
+Stack: QA Engineer
+Tools: Katalon Studio
